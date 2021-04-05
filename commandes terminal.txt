@@ -1,0 +1,26 @@
+
+Crée un controller 
+
+$> php artisan make:controller NomDuController
+
+_______________________________________________
+
+
+Crée un controller 
+
+$> php artisan make:model NomDuModel -m
+
+_______________________________________________
+Crée les migrations
+
+$> php artisan migrate
+
+Met a jour les migrations
+
+$> php artisan migrate:refresh
+
+_______________________________________________
+
+Lancer le serveur local
+
+$> php artisan serve
